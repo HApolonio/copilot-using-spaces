@@ -163,6 +163,36 @@ QA/Test Leads define quality standards, testing strategies, and release evidence
 
 ---
 
+## Performance Testing Engineer
+
+### Role Summary
+Performance Testing Engineers specialize in validating system behavior under realistic load, concurrency, and stress conditions. They help teams prevent regressions in latency, throughput, resource utilization, and end-user experience.
+
+### Responsibilities
+- **Initiation & Planning**: Define performance objectives, critical user journeys, and measurable success thresholds.
+- **Planning & Execution**: Design load, stress, soak, and spike tests; simulate expected and peak traffic conditions.
+- **Release**: Validate that core workflows meet performance targets before production deployment; flag bottlenecks or degradation risks.
+- **Retrospective**: Review performance trends, identify root causes of regressions, and recommend tuning or architectural improvements.
+
+### Goals
+- Maintain a smooth, responsive user experience under real-world conditions
+- Protect product reliability and scalability as traffic grows
+- Reduce release risk from performance regressions
+
+### Decision Rights & Handoffs
+- Approve performance test plans and thresholds for key workflows
+- Escalate performance risks that could impact user experience or launch readiness
+- Recommend workload, capacity, or architecture adjustments when thresholds are not met
+
+### Typical Communication & Collaboration
+- **With Developers**: Investigate bottlenecks, tune implementation choices, and validate fixes.
+- **With QA/Test Lead**: Align performance test coverage with acceptance criteria and regression checks.
+- **With Technical Lead**: Assess architecture and infrastructure implications of performance concerns.
+- **With DevOps/SRE**: Coordinate environment configuration, monitoring, and production-like testing conditions.
+- **With Product Manager & Project Manager**: Communicate performance risks, trade-offs, and release readiness.
+
+---
+
 ## Security or Privacy Lead
 
 ### Role Summary
